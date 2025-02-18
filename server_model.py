@@ -5,8 +5,8 @@ import numpy as np
 app = Flask(__name__)
 
 # Load the saved models
-fraud_model = joblib.load("fraud_random_forest.joblib")
-credit_model = joblib.load("credit_random_forest.joblib")
+fraud_model = joblib.load("./notebooks/models/fraud_random_forest.joblib")
+credit_model = joblib.load("./notebooks/models/credit_random_forest.joblib")
 
 @app.route('/predict_fraud', methods=['POST'])
 def predict_fraud():
