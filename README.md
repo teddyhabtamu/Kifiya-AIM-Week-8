@@ -1,5 +1,3 @@
-Teddy 🌱SEED, [2/18/25 8:24 PM]
-`markdown
 
 # Fraud Detection System for E-commerce and Banking Transactions
 
