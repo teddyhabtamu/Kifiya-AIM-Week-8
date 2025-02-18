@@ -58,7 +58,6 @@ The project utilizes the following datasets:
 - Model Training and Evaluation: Train models for both datasets and evaluate their performance.
 - MLOps Steps: Use tools like MLflow for versioning and experiment tracking.
 
-Teddy 🌱SEED, [2/18/25 8:24 PM]
 
 ### Task 3 - Model Explainability
 
